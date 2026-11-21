@@ -1,0 +1,153 @@
+{
+  "best_model": "Support Vector Machine (Calibrated)",
+  "models": {
+    "Logistic Regression": {
+      "accuracy": 0.9792,
+      "precision": 0.9804,
+      "recall": 0.9792,
+      "f1_score": 0.9791,
+      "confusion_matrix": [
+        [
+          75,
+          5,
+          0
+        ],
+        [
+          0,
+          80,
+          0
+        ],
+        [
+          0,
+          0,
+          80
+        ]
+      ]
+    },
+    "Support Vector Machine (Calibrated)": {
+      "accuracy": 0.9833,
+      "precision": 0.9841,
+      "recall": 0.9833,
+      "f1_score": 0.9833,
+      "confusion_matrix": [
+        [
+          76,
+          4,
+          0
+        ],
+        [
+          0,
+          80,
+          0
+        ],
+        [
+          0,
+          0,
+          80
+        ]
+      ]
+    },
+    "Random Forest": {
+      "accuracy": 0.9792,
+      "precision": 0.9797,
+      "recall": 0.9792,
+      "f1_score": 0.9793,
+      "confusion_matrix": [
+        [
+          79,
+          1,
+          0
+        ],
+        [
+          2,
+          78,
+          0
+        ],
+        [
+          2,
+          0,
+          78
+        ]
+      ]
+    },
+    "Naive Bayes": {
+      "accuracy": 0.975,
+      "precision": 0.9763,
+      "recall": 0.975,
+      "f1_score": 0.9748,
+      "confusion_matrix": [
+        [
+          74,
+          5,
+          1
+        ],
+        [
+          0,
+          80,
+          0
+        ],
+        [
+          0,
+          0,
+          80
+        ]
+      ]
+    },
+    "Neural Network (MLP)": {
+      "accuracy": 0.9792,
+      "precision": 0.9804,
+      "recall": 0.9792,
+      "f1_score": 0.9791,
+      "confusion_matrix": [
+        [
+          75,
+          5,
+          0
+        ],
+        [
+          0,
+          80,
+          0
+        ],
+        [
+          0,
+          0,
+          80
+        ]
+      ]
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.9708,
+      "precision": 0.9713,
+      "recall": 0.9708,
+      "f1_score": 0.9708,
+      "confusion_matrix": [
+        [
+          78,
+          2,
+          0
+        ],
+        [
+          5,
+          75,
+          0
+        ],
+        [
+          0,
+          0,
+          80
+        ]
+      ]
+    }
+  },
+  "dataset_split": {
+    "train_samples": 960,
+    "test_samples": 240,
+    "total_samples": 1200,
+    "classes": [
+      "General / Benign",
+      "Legitimate Medical Review",
+      "Illicit Drug Trafficking"
+    ]
+  }
+}

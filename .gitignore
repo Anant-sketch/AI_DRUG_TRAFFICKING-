@@ -1,0 +1,36 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables & Secrets
+.env
+*.env
+!*.env.example
+
+# Telegram Auth Session files
+*.session
+*.session-journal
+narcotrace_session*
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw bulky dataset files (>25MB, download separately from UCI)
+dataset/drugsComTrain_raw.csv
+dataset/drugsComTest_raw.csv
+
+# Logs & Temporary files
+*.tmp
+*.log

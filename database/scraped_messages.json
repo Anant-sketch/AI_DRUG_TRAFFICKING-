@@ -1,0 +1,4499 @@
+[
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 8344467,
+    "message_id": 45492,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795252325.8604212,
+    "formatted_time": "2026-11-21 09:12:05 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795252325860_561b9b",
+    "_id": "doc_1795252325860_561b9b"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 5646351,
+    "message_id": 13350,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795252325.8055809,
+    "formatted_time": "2026-11-21 09:12:05 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795252325805_20bef6",
+    "_id": "doc_1795252325805_20bef6"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 5511288,
+    "message_id": 67820,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795252325.745611,
+    "formatted_time": "2026-11-21 09:12:05 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795252325745_310c55",
+    "_id": "doc_1795252325745_310c55"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 4154547,
+    "message_id": 14853,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795252311.3217666,
+    "formatted_time": "2026-11-21 09:11:51 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795252311321_da16e6",
+    "_id": "doc_1795252311321_da16e6"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 3826928,
+    "message_id": 42627,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795252308.6334493,
+    "formatted_time": "2026-11-21 09:11:48 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795252308633_26ee1c",
+    "_id": "doc_1795252308633_26ee1c"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@covert_apothecary_in",
+    "chat_id": 6043843,
+    "message_id": 98098,
+    "sender_id": "GreenKing_Vendor",
+    "timestamp": 1795252305.6645858,
+    "formatted_time": "2026-11-21 09:11:45 UTC",
+    "original_text": "Got loud 🌿 pack, shatter wax, and 🍄 golden teacher shrooms in stock. Hit up plug on Telegram @green_dispensary or Wickr: darkplug. Monero: 48edfRBDwTWeeBMyJ2b3fWAwjXx3M. Secure escrow & vacuum sealed package.",
+    "cleaned_text": "got strong_marijuana drug_cannabis_weed pack shatter wax drug_shrooms_psychedelic golden teacher psychedelic_mushroom stock hit dealer_supplier telegram token_telegram_contact token_wickr_handle monero token_crypto_xmr secure darknet_crypto_escrow vacuum seal package",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "green_dispensary"
+      ],
+      "wickr_handles": [
+        "darkplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [
+        "48edfRBDwTWeeBMyJ2b3fWAwjXx3M"
+      ],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "🍄",
+        "🌿"
+      ],
+      "suspicious_keywords": [
+        "monero",
+        "wickr",
+        "loud",
+        "escrow",
+        "pack",
+        "telegram",
+        "shrooms",
+        "plug"
+      ],
+      "entity_count": 5
+    },
+    "probabilities": {
+      "General / Benign": 0.0125,
+      "Legitimate Medical Review": 0.0091,
+      "Illicit Drug Trafficking": 0.9784
+    },
+    "has_media": false,
+    "id": "doc_1795252305688_32770a",
+    "_id": "doc_1795252305688_32770a"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 1876967,
+    "message_id": 80774,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795252303.1445332,
+    "formatted_time": "2026-11-21 09:11:43 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795252303144_30fa10",
+    "_id": "doc_1795252303144_30fa10"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 7664726,
+    "message_id": 69419,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795252302.5042377,
+    "formatted_time": "2026-11-21 09:11:42 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795252302518_ef6f36",
+    "_id": "doc_1795252302518_ef6f36"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@covert_apothecary_in",
+    "chat_id": 3527362,
+    "message_id": 94341,
+    "sender_id": "GreenKing_Vendor",
+    "timestamp": 1795252301.5334797,
+    "formatted_time": "2026-11-21 09:11:41 UTC",
+    "original_text": "Got loud 🌿 pack, shatter wax, and 🍄 golden teacher shrooms in stock. Hit up plug on Telegram @green_dispensary or Wickr: darkplug. Monero: 48edfRBDwTWeeBMyJ2b3fWAwjXx3M. Secure escrow & vacuum sealed package.",
+    "cleaned_text": "got strong_marijuana drug_cannabis_weed pack shatter wax drug_shrooms_psychedelic golden teacher psychedelic_mushroom stock hit dealer_supplier telegram token_telegram_contact token_wickr_handle monero token_crypto_xmr secure darknet_crypto_escrow vacuum seal package",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "green_dispensary"
+      ],
+      "wickr_handles": [
+        "darkplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [
+        "48edfRBDwTWeeBMyJ2b3fWAwjXx3M"
+      ],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "🍄",
+        "🌿"
+      ],
+      "suspicious_keywords": [
+        "monero",
+        "wickr",
+        "loud",
+        "escrow",
+        "pack",
+        "telegram",
+        "shrooms",
+        "plug"
+      ],
+      "entity_count": 5
+    },
+    "probabilities": {
+      "General / Benign": 0.0125,
+      "Legitimate Medical Review": 0.0091,
+      "Illicit Drug Trafficking": 0.9784
+    },
+    "has_media": false,
+    "id": "doc_1795252301533_5eaafb",
+    "_id": "doc_1795252301533_5eaafb"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 2997260,
+    "message_id": 94560,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795240102.98668,
+    "formatted_time": "2026-11-21 05:48:22 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795240102986_c3a291",
+    "_id": "doc_1795240102986_c3a291"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 3046272,
+    "message_id": 98136,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795240041.208189,
+    "formatted_time": "2026-11-21 05:47:21 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795240041208_645ce8",
+    "_id": "doc_1795240041208_645ce8"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 2185563,
+    "message_id": 89099,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795240038.1909194,
+    "formatted_time": "2026-11-21 05:47:18 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795240038191_1f4141",
+    "_id": "doc_1795240038191_1f4141"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 1914312,
+    "message_id": 67597,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795240035.2010388,
+    "formatted_time": "2026-11-21 05:47:15 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795240035201_ec2c19",
+    "_id": "doc_1795240035201_ec2c19"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 3929166,
+    "message_id": 21794,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795240032.196864,
+    "formatted_time": "2026-11-21 05:47:12 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795240032196_0d9139",
+    "_id": "doc_1795240032196_0d9139"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 1795037,
+    "message_id": 35560,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795240029.2021558,
+    "formatted_time": "2026-11-21 05:47:09 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795240029202_631686",
+    "_id": "doc_1795240029202_631686"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 9174373,
+    "message_id": 46960,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795240026.201159,
+    "formatted_time": "2026-11-21 05:47:06 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795240026201_e29e75",
+    "_id": "doc_1795240026201_e29e75"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 2776019,
+    "message_id": 60013,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795240023.1706932,
+    "formatted_time": "2026-11-21 05:47:03 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795240023170_84defa",
+    "_id": "doc_1795240023170_84defa"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@covert_apothecary_in",
+    "chat_id": 9961007,
+    "message_id": 97096,
+    "sender_id": "GreenKing_Vendor",
+    "timestamp": 1795240017.1970959,
+    "formatted_time": "2026-11-21 05:46:57 UTC",
+    "original_text": "Got loud 🌿 pack, shatter wax, and 🍄 golden teacher shrooms in stock. Hit up plug on Telegram @green_dispensary or Wickr: darkplug. Monero: 48edfRBDwTWeeBMyJ2b3fWAwjXx3M. Secure escrow & vacuum sealed package.",
+    "cleaned_text": "got strong_marijuana drug_cannabis_weed pack shatter wax drug_shrooms_psychedelic golden teacher psychedelic_mushroom stock hit dealer_supplier telegram token_telegram_contact token_wickr_handle monero token_crypto_xmr secure darknet_crypto_escrow vacuum seal package",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "green_dispensary"
+      ],
+      "wickr_handles": [
+        "darkplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [
+        "48edfRBDwTWeeBMyJ2b3fWAwjXx3M"
+      ],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "🍄",
+        "🌿"
+      ],
+      "suspicious_keywords": [
+        "monero",
+        "wickr",
+        "loud",
+        "escrow",
+        "pack",
+        "telegram",
+        "shrooms",
+        "plug"
+      ],
+      "entity_count": 5
+    },
+    "probabilities": {
+      "General / Benign": 0.0125,
+      "Legitimate Medical Review": 0.0091,
+      "Illicit Drug Trafficking": 0.9784
+    },
+    "has_media": false,
+    "id": "doc_1795240017197_2c02d9",
+    "_id": "doc_1795240017197_2c02d9"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 7169756,
+    "message_id": 76135,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795240014.1874516,
+    "formatted_time": "2026-11-21 05:46:54 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795240014187_0f0d4e",
+    "_id": "doc_1795240014187_0f0d4e"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 9683881,
+    "message_id": 29496,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795240008.2103405,
+    "formatted_time": "2026-11-21 05:46:48 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795240008210_1fec0e",
+    "_id": "doc_1795240008210_1fec0e"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@covert_apothecary_in",
+    "chat_id": 6982565,
+    "message_id": 59970,
+    "sender_id": "GreenKing_Vendor",
+    "timestamp": 1795240005.2223103,
+    "formatted_time": "2026-11-21 05:46:45 UTC",
+    "original_text": "Got loud 🌿 pack, shatter wax, and 🍄 golden teacher shrooms in stock. Hit up plug on Telegram @green_dispensary or Wickr: darkplug. Monero: 48edfRBDwTWeeBMyJ2b3fWAwjXx3M. Secure escrow & vacuum sealed package.",
+    "cleaned_text": "got strong_marijuana drug_cannabis_weed pack shatter wax drug_shrooms_psychedelic golden teacher psychedelic_mushroom stock hit dealer_supplier telegram token_telegram_contact token_wickr_handle monero token_crypto_xmr secure darknet_crypto_escrow vacuum seal package",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "green_dispensary"
+      ],
+      "wickr_handles": [
+        "darkplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [
+        "48edfRBDwTWeeBMyJ2b3fWAwjXx3M"
+      ],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "🍄",
+        "🌿"
+      ],
+      "suspicious_keywords": [
+        "monero",
+        "wickr",
+        "loud",
+        "escrow",
+        "pack",
+        "telegram",
+        "shrooms",
+        "plug"
+      ],
+      "entity_count": 5
+    },
+    "probabilities": {
+      "General / Benign": 0.0125,
+      "Legitimate Medical Review": 0.0091,
+      "Illicit Drug Trafficking": 0.9784
+    },
+    "has_media": false,
+    "id": "doc_1795240005222_a2d2bc",
+    "_id": "doc_1795240005222_a2d2bc"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 5709747,
+    "message_id": 85538,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795240002.192861,
+    "formatted_time": "2026-11-21 05:46:42 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795240002193_6c5a88",
+    "_id": "doc_1795240002193_6c5a88"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 6600619,
+    "message_id": 44541,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795239999.1821275,
+    "formatted_time": "2026-11-21 05:46:39 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795239999182_0a033c",
+    "_id": "doc_1795239999182_0a033c"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 8767078,
+    "message_id": 88650,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239996.2129207,
+    "formatted_time": "2026-11-21 05:46:36 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239996213_2ea49e",
+    "_id": "doc_1795239996213_2ea49e"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 9408792,
+    "message_id": 55423,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795239993.1729107,
+    "formatted_time": "2026-11-21 05:46:33 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795239993172_012ad3",
+    "_id": "doc_1795239993172_012ad3"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 5306752,
+    "message_id": 80599,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795239990.1899757,
+    "formatted_time": "2026-11-21 05:46:30 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795239990190_cb8482",
+    "_id": "doc_1795239990190_cb8482"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 8333534,
+    "message_id": 94934,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239984.1945493,
+    "formatted_time": "2026-11-21 05:46:24 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239984194_a8c58c",
+    "_id": "doc_1795239984194_a8c58c"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@covert_apothecary_in",
+    "chat_id": 5953732,
+    "message_id": 10789,
+    "sender_id": "GreenKing_Vendor",
+    "timestamp": 1795239981.2299292,
+    "formatted_time": "2026-11-21 05:46:21 UTC",
+    "original_text": "Got loud 🌿 pack, shatter wax, and 🍄 golden teacher shrooms in stock. Hit up plug on Telegram @green_dispensary or Wickr: darkplug. Monero: 48edfRBDwTWeeBMyJ2b3fWAwjXx3M. Secure escrow & vacuum sealed package.",
+    "cleaned_text": "got strong_marijuana drug_cannabis_weed pack shatter wax drug_shrooms_psychedelic golden teacher psychedelic_mushroom stock hit dealer_supplier telegram token_telegram_contact token_wickr_handle monero token_crypto_xmr secure darknet_crypto_escrow vacuum seal package",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "green_dispensary"
+      ],
+      "wickr_handles": [
+        "darkplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [
+        "48edfRBDwTWeeBMyJ2b3fWAwjXx3M"
+      ],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "🍄",
+        "🌿"
+      ],
+      "suspicious_keywords": [
+        "monero",
+        "wickr",
+        "loud",
+        "escrow",
+        "pack",
+        "telegram",
+        "shrooms",
+        "plug"
+      ],
+      "entity_count": 5
+    },
+    "probabilities": {
+      "General / Benign": 0.0125,
+      "Legitimate Medical Review": 0.0091,
+      "Illicit Drug Trafficking": 0.9784
+    },
+    "has_media": false,
+    "id": "doc_1795239981230_7c0b08",
+    "_id": "doc_1795239981230_7c0b08"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@covert_apothecary_in",
+    "chat_id": 8510568,
+    "message_id": 64032,
+    "sender_id": "GreenKing_Vendor",
+    "timestamp": 1795239975.2120562,
+    "formatted_time": "2026-11-21 05:46:15 UTC",
+    "original_text": "Got loud 🌿 pack, shatter wax, and 🍄 golden teacher shrooms in stock. Hit up plug on Telegram @green_dispensary or Wickr: darkplug. Monero: 48edfRBDwTWeeBMyJ2b3fWAwjXx3M. Secure escrow & vacuum sealed package.",
+    "cleaned_text": "got strong_marijuana drug_cannabis_weed pack shatter wax drug_shrooms_psychedelic golden teacher psychedelic_mushroom stock hit dealer_supplier telegram token_telegram_contact token_wickr_handle monero token_crypto_xmr secure darknet_crypto_escrow vacuum seal package",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "green_dispensary"
+      ],
+      "wickr_handles": [
+        "darkplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [
+        "48edfRBDwTWeeBMyJ2b3fWAwjXx3M"
+      ],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "🍄",
+        "🌿"
+      ],
+      "suspicious_keywords": [
+        "monero",
+        "wickr",
+        "loud",
+        "escrow",
+        "pack",
+        "telegram",
+        "shrooms",
+        "plug"
+      ],
+      "entity_count": 5
+    },
+    "probabilities": {
+      "General / Benign": 0.0125,
+      "Legitimate Medical Review": 0.0091,
+      "Illicit Drug Trafficking": 0.9784
+    },
+    "has_media": false,
+    "id": "doc_1795239975212_738920",
+    "_id": "doc_1795239975212_738920"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 9333430,
+    "message_id": 63175,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795239972.212228,
+    "formatted_time": "2026-11-21 05:46:12 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795239972212_4d3071",
+    "_id": "doc_1795239972212_4d3071"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 7833793,
+    "message_id": 74051,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239969.1908753,
+    "formatted_time": "2026-11-21 05:46:09 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239969191_325baa",
+    "_id": "doc_1795239969191_325baa"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 6792462,
+    "message_id": 59992,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239966.199546,
+    "formatted_time": "2026-11-21 05:46:06 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239966199_590666",
+    "_id": "doc_1795239966199_590666"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 6496080,
+    "message_id": 47234,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239963.2033746,
+    "formatted_time": "2026-11-21 05:46:03 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239963203_5cd568",
+    "_id": "doc_1795239963203_5cd568"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 7345418,
+    "message_id": 42479,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239960.1718948,
+    "formatted_time": "2026-11-21 05:46:00 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239960172_3dff4e",
+    "_id": "doc_1795239960172_3dff4e"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 9347995,
+    "message_id": 52201,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239957.1901445,
+    "formatted_time": "2026-11-21 05:45:57 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239957190_262b26",
+    "_id": "doc_1795239957190_262b26"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 3100987,
+    "message_id": 94286,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239951.2096317,
+    "formatted_time": "2026-11-21 05:45:51 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239951209_ccde57",
+    "_id": "doc_1795239951209_ccde57"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@covert_apothecary_in",
+    "chat_id": 7884414,
+    "message_id": 50371,
+    "sender_id": "GreenKing_Vendor",
+    "timestamp": 1795239948.1960502,
+    "formatted_time": "2026-11-21 05:45:48 UTC",
+    "original_text": "Got loud 🌿 pack, shatter wax, and 🍄 golden teacher shrooms in stock. Hit up plug on Telegram @green_dispensary or Wickr: darkplug. Monero: 48edfRBDwTWeeBMyJ2b3fWAwjXx3M. Secure escrow & vacuum sealed package.",
+    "cleaned_text": "got strong_marijuana drug_cannabis_weed pack shatter wax drug_shrooms_psychedelic golden teacher psychedelic_mushroom stock hit dealer_supplier telegram token_telegram_contact token_wickr_handle monero token_crypto_xmr secure darknet_crypto_escrow vacuum seal package",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "green_dispensary"
+      ],
+      "wickr_handles": [
+        "darkplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [
+        "48edfRBDwTWeeBMyJ2b3fWAwjXx3M"
+      ],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "🍄",
+        "🌿"
+      ],
+      "suspicious_keywords": [
+        "monero",
+        "wickr",
+        "loud",
+        "escrow",
+        "pack",
+        "telegram",
+        "shrooms",
+        "plug"
+      ],
+      "entity_count": 5
+    },
+    "probabilities": {
+      "General / Benign": 0.0125,
+      "Legitimate Medical Review": 0.0091,
+      "Illicit Drug Trafficking": 0.9784
+    },
+    "has_media": false,
+    "id": "doc_1795239948196_9517d2",
+    "_id": "doc_1795239948196_9517d2"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 2887789,
+    "message_id": 72218,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795239945.2169304,
+    "formatted_time": "2026-11-21 05:45:45 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795239945217_5a0837",
+    "_id": "doc_1795239945217_5a0837"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 4549107,
+    "message_id": 41702,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795239942.2102683,
+    "formatted_time": "2026-11-21 05:45:42 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795239942210_70774a",
+    "_id": "doc_1795239942210_70774a"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 1831273,
+    "message_id": 82743,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239939.2022824,
+    "formatted_time": "2026-11-21 05:45:39 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239939202_e5b4cb",
+    "_id": "doc_1795239939202_e5b4cb"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@covert_apothecary_in",
+    "chat_id": 2363435,
+    "message_id": 26655,
+    "sender_id": "GreenKing_Vendor",
+    "timestamp": 1795239936.161859,
+    "formatted_time": "2026-11-21 05:45:36 UTC",
+    "original_text": "Got loud 🌿 pack, shatter wax, and 🍄 golden teacher shrooms in stock. Hit up plug on Telegram @green_dispensary or Wickr: darkplug. Monero: 48edfRBDwTWeeBMyJ2b3fWAwjXx3M. Secure escrow & vacuum sealed package.",
+    "cleaned_text": "got strong_marijuana drug_cannabis_weed pack shatter wax drug_shrooms_psychedelic golden teacher psychedelic_mushroom stock hit dealer_supplier telegram token_telegram_contact token_wickr_handle monero token_crypto_xmr secure darknet_crypto_escrow vacuum seal package",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "green_dispensary"
+      ],
+      "wickr_handles": [
+        "darkplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [
+        "48edfRBDwTWeeBMyJ2b3fWAwjXx3M"
+      ],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "🍄",
+        "🌿"
+      ],
+      "suspicious_keywords": [
+        "monero",
+        "wickr",
+        "loud",
+        "escrow",
+        "pack",
+        "telegram",
+        "shrooms",
+        "plug"
+      ],
+      "entity_count": 5
+    },
+    "probabilities": {
+      "General / Benign": 0.0125,
+      "Legitimate Medical Review": 0.0091,
+      "Illicit Drug Trafficking": 0.9784
+    },
+    "has_media": false,
+    "id": "doc_1795239936161_8adfef",
+    "_id": "doc_1795239936161_8adfef"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 3410931,
+    "message_id": 17022,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795239933.1907024,
+    "formatted_time": "2026-11-21 05:45:33 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795239933190_612b02",
+    "_id": "doc_1795239933190_612b02"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 7942129,
+    "message_id": 46766,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239930.1885097,
+    "formatted_time": "2026-11-21 05:45:30 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239930188_5f1d4d",
+    "_id": "doc_1795239930188_5f1d4d"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 4499383,
+    "message_id": 11225,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239927.1735008,
+    "formatted_time": "2026-11-21 05:45:27 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239927173_53a5e0",
+    "_id": "doc_1795239927173_53a5e0"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 8240247,
+    "message_id": 69510,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239921.2645125,
+    "formatted_time": "2026-11-21 05:45:21 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239921264_e120e3",
+    "_id": "doc_1795239921264_e120e3"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 8389151,
+    "message_id": 21324,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239918.1928303,
+    "formatted_time": "2026-11-21 05:45:18 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239918192_3cef34",
+    "_id": "doc_1795239918192_3cef34"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 8605264,
+    "message_id": 23230,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239915.2102773,
+    "formatted_time": "2026-11-21 05:45:15 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239915210_857ff0",
+    "_id": "doc_1795239915210_857ff0"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@covert_apothecary_in",
+    "chat_id": 1158881,
+    "message_id": 50895,
+    "sender_id": "GreenKing_Vendor",
+    "timestamp": 1795239909.2145061,
+    "formatted_time": "2026-11-21 05:45:09 UTC",
+    "original_text": "Got loud 🌿 pack, shatter wax, and 🍄 golden teacher shrooms in stock. Hit up plug on Telegram @green_dispensary or Wickr: darkplug. Monero: 48edfRBDwTWeeBMyJ2b3fWAwjXx3M. Secure escrow & vacuum sealed package.",
+    "cleaned_text": "got strong_marijuana drug_cannabis_weed pack shatter wax drug_shrooms_psychedelic golden teacher psychedelic_mushroom stock hit dealer_supplier telegram token_telegram_contact token_wickr_handle monero token_crypto_xmr secure darknet_crypto_escrow vacuum seal package",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "green_dispensary"
+      ],
+      "wickr_handles": [
+        "darkplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [
+        "48edfRBDwTWeeBMyJ2b3fWAwjXx3M"
+      ],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "🍄",
+        "🌿"
+      ],
+      "suspicious_keywords": [
+        "monero",
+        "wickr",
+        "loud",
+        "escrow",
+        "pack",
+        "telegram",
+        "shrooms",
+        "plug"
+      ],
+      "entity_count": 5
+    },
+    "probabilities": {
+      "General / Benign": 0.0125,
+      "Legitimate Medical Review": 0.0091,
+      "Illicit Drug Trafficking": 0.9784
+    },
+    "has_media": false,
+    "id": "doc_1795239909217_0843e5",
+    "_id": "doc_1795239909217_0843e5"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 7916207,
+    "message_id": 33833,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795239906.1850002,
+    "formatted_time": "2026-11-21 05:45:06 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795239906185_4f1abb",
+    "_id": "doc_1795239906185_4f1abb"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 8659047,
+    "message_id": 37131,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795239903.1947904,
+    "formatted_time": "2026-11-21 05:45:03 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795239903195_3a54a9",
+    "_id": "doc_1795239903195_3a54a9"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 4884202,
+    "message_id": 99657,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795239900.193491,
+    "formatted_time": "2026-11-21 05:45:00 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795239900193_f865c6",
+    "_id": "doc_1795239900193_f865c6"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 1283268,
+    "message_id": 93737,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795239897.1699321,
+    "formatted_time": "2026-11-21 05:44:57 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795239897170_7d655e",
+    "_id": "doc_1795239897170_7d655e"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@covert_apothecary_in",
+    "chat_id": 3536240,
+    "message_id": 99967,
+    "sender_id": "GreenKing_Vendor",
+    "timestamp": 1795239891.2283223,
+    "formatted_time": "2026-11-21 05:44:51 UTC",
+    "original_text": "Got loud 🌿 pack, shatter wax, and 🍄 golden teacher shrooms in stock. Hit up plug on Telegram @green_dispensary or Wickr: darkplug. Monero: 48edfRBDwTWeeBMyJ2b3fWAwjXx3M. Secure escrow & vacuum sealed package.",
+    "cleaned_text": "got strong_marijuana drug_cannabis_weed pack shatter wax drug_shrooms_psychedelic golden teacher psychedelic_mushroom stock hit dealer_supplier telegram token_telegram_contact token_wickr_handle monero token_crypto_xmr secure darknet_crypto_escrow vacuum seal package",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "green_dispensary"
+      ],
+      "wickr_handles": [
+        "darkplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [
+        "48edfRBDwTWeeBMyJ2b3fWAwjXx3M"
+      ],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "🍄",
+        "🌿"
+      ],
+      "suspicious_keywords": [
+        "monero",
+        "wickr",
+        "loud",
+        "escrow",
+        "pack",
+        "telegram",
+        "shrooms",
+        "plug"
+      ],
+      "entity_count": 5
+    },
+    "probabilities": {
+      "General / Benign": 0.0125,
+      "Legitimate Medical Review": 0.0091,
+      "Illicit Drug Trafficking": 0.9784
+    },
+    "has_media": false,
+    "id": "doc_1795239891228_39490d",
+    "_id": "doc_1795239891228_39490d"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 2086073,
+    "message_id": 32361,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239888.1862013,
+    "formatted_time": "2026-11-21 05:44:48 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239888186_38c66b",
+    "_id": "doc_1795239888186_38c66b"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 3327071,
+    "message_id": 89269,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239885.1946228,
+    "formatted_time": "2026-11-21 05:44:45 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239885194_454dfe",
+    "_id": "doc_1795239885194_454dfe"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 7118172,
+    "message_id": 28555,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239882.1894083,
+    "formatted_time": "2026-11-21 05:44:42 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239882189_d36294",
+    "_id": "doc_1795239882189_d36294"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 2838073,
+    "message_id": 46528,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795239879.1870692,
+    "formatted_time": "2026-11-21 05:44:39 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795239879187_5cff6b",
+    "_id": "doc_1795239879187_5cff6b"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 9088570,
+    "message_id": 33876,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795239876.2135181,
+    "formatted_time": "2026-11-21 05:44:36 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795239876213_9e6092",
+    "_id": "doc_1795239876213_9e6092"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 6105887,
+    "message_id": 13568,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239873.180678,
+    "formatted_time": "2026-11-21 05:44:33 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239873180_3dc684",
+    "_id": "doc_1795239873180_3dc684"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 2105288,
+    "message_id": 21355,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239870.3271773,
+    "formatted_time": "2026-11-21 05:44:30 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239870327_5ffe15",
+    "_id": "doc_1795239870327_5ffe15"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 1929282,
+    "message_id": 45815,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239867.4886072,
+    "formatted_time": "2026-11-21 05:44:27 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239867488_f6c41c",
+    "_id": "doc_1795239867488_f6c41c"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 6869986,
+    "message_id": 97405,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239855.3557498,
+    "formatted_time": "2026-11-21 05:44:15 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239855355_38fe6c",
+    "_id": "doc_1795239855355_38fe6c"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 2070645,
+    "message_id": 34220,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795239852.3337889,
+    "formatted_time": "2026-11-21 05:44:12 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795239852333_2c06a7",
+    "_id": "doc_1795239852333_2c06a7"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 8010386,
+    "message_id": 26633,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239849.3537936,
+    "formatted_time": "2026-11-21 05:44:09 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239849353_799cf0",
+    "_id": "doc_1795239849353_799cf0"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 7371578,
+    "message_id": 29999,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239846.1706848,
+    "formatted_time": "2026-11-21 05:44:06 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239846170_8ef0de",
+    "_id": "doc_1795239846170_8ef0de"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 2619022,
+    "message_id": 38426,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239843.2005882,
+    "formatted_time": "2026-11-21 05:44:03 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239843200_7d90d6",
+    "_id": "doc_1795239843200_7d90d6"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@covert_apothecary_in",
+    "chat_id": 6314834,
+    "message_id": 78188,
+    "sender_id": "GreenKing_Vendor",
+    "timestamp": 1795239840.16832,
+    "formatted_time": "2026-11-21 05:44:00 UTC",
+    "original_text": "Got loud 🌿 pack, shatter wax, and 🍄 golden teacher shrooms in stock. Hit up plug on Telegram @green_dispensary or Wickr: darkplug. Monero: 48edfRBDwTWeeBMyJ2b3fWAwjXx3M. Secure escrow & vacuum sealed package.",
+    "cleaned_text": "got strong_marijuana drug_cannabis_weed pack shatter wax drug_shrooms_psychedelic golden teacher psychedelic_mushroom stock hit dealer_supplier telegram token_telegram_contact token_wickr_handle monero token_crypto_xmr secure darknet_crypto_escrow vacuum seal package",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "green_dispensary"
+      ],
+      "wickr_handles": [
+        "darkplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [
+        "48edfRBDwTWeeBMyJ2b3fWAwjXx3M"
+      ],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "🍄",
+        "🌿"
+      ],
+      "suspicious_keywords": [
+        "monero",
+        "wickr",
+        "loud",
+        "escrow",
+        "pack",
+        "telegram",
+        "shrooms",
+        "plug"
+      ],
+      "entity_count": 5
+    },
+    "probabilities": {
+      "General / Benign": 0.0125,
+      "Legitimate Medical Review": 0.0091,
+      "Illicit Drug Trafficking": 0.9784
+    },
+    "has_media": false,
+    "id": "doc_1795239840168_af2f51",
+    "_id": "doc_1795239840168_af2f51"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 2982764,
+    "message_id": 63819,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795239837.181923,
+    "formatted_time": "2026-11-21 05:43:57 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795239837182_9a1cf9",
+    "_id": "doc_1795239837182_9a1cf9"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@covert_apothecary_in",
+    "chat_id": 2377656,
+    "message_id": 82656,
+    "sender_id": "GreenKing_Vendor",
+    "timestamp": 1795239834.2244532,
+    "formatted_time": "2026-11-21 05:43:54 UTC",
+    "original_text": "Got loud 🌿 pack, shatter wax, and 🍄 golden teacher shrooms in stock. Hit up plug on Telegram @green_dispensary or Wickr: darkplug. Monero: 48edfRBDwTWeeBMyJ2b3fWAwjXx3M. Secure escrow & vacuum sealed package.",
+    "cleaned_text": "got strong_marijuana drug_cannabis_weed pack shatter wax drug_shrooms_psychedelic golden teacher psychedelic_mushroom stock hit dealer_supplier telegram token_telegram_contact token_wickr_handle monero token_crypto_xmr secure darknet_crypto_escrow vacuum seal package",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "green_dispensary"
+      ],
+      "wickr_handles": [
+        "darkplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [
+        "48edfRBDwTWeeBMyJ2b3fWAwjXx3M"
+      ],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "🍄",
+        "🌿"
+      ],
+      "suspicious_keywords": [
+        "monero",
+        "wickr",
+        "loud",
+        "escrow",
+        "pack",
+        "telegram",
+        "shrooms",
+        "plug"
+      ],
+      "entity_count": 5
+    },
+    "probabilities": {
+      "General / Benign": 0.0125,
+      "Legitimate Medical Review": 0.0091,
+      "Illicit Drug Trafficking": 0.9784
+    },
+    "has_media": false,
+    "id": "doc_1795239834224_bdde72",
+    "_id": "doc_1795239834224_bdde72"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 5519934,
+    "message_id": 41018,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795239828.2003522,
+    "formatted_time": "2026-11-21 05:43:48 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795239828200_73917d",
+    "_id": "doc_1795239828200_73917d"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 9828923,
+    "message_id": 79403,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795239825.1913464,
+    "formatted_time": "2026-11-21 05:43:45 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795239825191_9988b7",
+    "_id": "doc_1795239825191_9988b7"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 8792390,
+    "message_id": 71310,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795239819.2621217,
+    "formatted_time": "2026-11-21 05:43:39 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795239819262_49f0e2",
+    "_id": "doc_1795239819262_49f0e2"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 2504148,
+    "message_id": 12113,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795239816.3222694,
+    "formatted_time": "2026-11-21 05:43:36 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795239816322_b191b7",
+    "_id": "doc_1795239816322_b191b7"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 9881743,
+    "message_id": 78379,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239810.234259,
+    "formatted_time": "2026-11-21 05:43:30 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239810234_0ff114",
+    "_id": "doc_1795239810234_0ff114"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 5595630,
+    "message_id": 69067,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795239804.1785522,
+    "formatted_time": "2026-11-21 05:43:24 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795239804178_6a29e4",
+    "_id": "doc_1795239804178_6a29e4"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 9450467,
+    "message_id": 94818,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239801.1794028,
+    "formatted_time": "2026-11-21 05:43:21 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239801179_dd0763",
+    "_id": "doc_1795239801179_dd0763"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 7362045,
+    "message_id": 50132,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239798.2043762,
+    "formatted_time": "2026-11-21 05:43:18 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239798204_d10436",
+    "_id": "doc_1795239798204_d10436"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 6390396,
+    "message_id": 38231,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239795.1742208,
+    "formatted_time": "2026-11-21 05:43:15 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239795174_aa40a9",
+    "_id": "doc_1795239795174_aa40a9"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 5990720,
+    "message_id": 84830,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795239792.1781046,
+    "formatted_time": "2026-11-21 05:43:12 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795239792178_a865eb",
+    "_id": "doc_1795239792178_a865eb"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 9490218,
+    "message_id": 24577,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239786.215162,
+    "formatted_time": "2026-11-21 05:43:06 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239786215_384112",
+    "_id": "doc_1795239786215_384112"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 7567917,
+    "message_id": 49361,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239783.1766715,
+    "formatted_time": "2026-11-21 05:43:03 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239783176_caa5fe",
+    "_id": "doc_1795239783176_caa5fe"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 7452910,
+    "message_id": 27231,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239780.183445,
+    "formatted_time": "2026-11-21 05:43:00 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239780183_e5825d",
+    "_id": "doc_1795239780183_e5825d"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@covert_apothecary_in",
+    "chat_id": 1301686,
+    "message_id": 75191,
+    "sender_id": "GreenKing_Vendor",
+    "timestamp": 1795239777.1753435,
+    "formatted_time": "2026-11-21 05:42:57 UTC",
+    "original_text": "Got loud 🌿 pack, shatter wax, and 🍄 golden teacher shrooms in stock. Hit up plug on Telegram @green_dispensary or Wickr: darkplug. Monero: 48edfRBDwTWeeBMyJ2b3fWAwjXx3M. Secure escrow & vacuum sealed package.",
+    "cleaned_text": "got strong_marijuana drug_cannabis_weed pack shatter wax drug_shrooms_psychedelic golden teacher psychedelic_mushroom stock hit dealer_supplier telegram token_telegram_contact token_wickr_handle monero token_crypto_xmr secure darknet_crypto_escrow vacuum seal package",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "green_dispensary"
+      ],
+      "wickr_handles": [
+        "darkplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [
+        "48edfRBDwTWeeBMyJ2b3fWAwjXx3M"
+      ],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "🍄",
+        "🌿"
+      ],
+      "suspicious_keywords": [
+        "monero",
+        "wickr",
+        "loud",
+        "escrow",
+        "pack",
+        "telegram",
+        "shrooms",
+        "plug"
+      ],
+      "entity_count": 5
+    },
+    "probabilities": {
+      "General / Benign": 0.0125,
+      "Legitimate Medical Review": 0.0091,
+      "Illicit Drug Trafficking": 0.9784
+    },
+    "has_media": false,
+    "id": "doc_1795239777175_5f3f09",
+    "_id": "doc_1795239777175_5f3f09"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 6728569,
+    "message_id": 33668,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795239774.1806085,
+    "formatted_time": "2026-11-21 05:42:54 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795239774181_bcd4d8",
+    "_id": "doc_1795239774181_bcd4d8"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@crypto_weed_express",
+    "chat_id": 7075262,
+    "message_id": 12440,
+    "sender_id": "MedicalInfo_Bot",
+    "timestamp": 1795239771.1780317,
+    "formatted_time": "2026-11-21 05:42:51 UTC",
+    "original_text": "Medical Advisory: Please consult a licensed doctor for prescription refills. Do not purchase medications from unauthorized online platforms.",
+    "cleaned_text": "medical advisory please consult licens doctor prescription refill not purchase medication unauthoriz online platform",
+    "predicted_category": "Legitimate Medical Review",
+    "threat_score": 5.1,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "tor",
+        "ice"
+      ],
+      "entity_count": 0
+    },
+    "probabilities": {
+      "General / Benign": 0.0396,
+      "Legitimate Medical Review": 0.9307,
+      "Illicit Drug Trafficking": 0.0296
+    },
+    "has_media": false,
+    "id": "doc_1795239771178_c37048",
+    "_id": "doc_1795239771178_c37048"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 6951426,
+    "message_id": 40538,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795239768.2187676,
+    "formatted_time": "2026-11-21 05:42:48 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795239768218_27f96f",
+    "_id": "doc_1795239768218_27f96f"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@darknet_pharma_direct",
+    "chat_id": 9887304,
+    "message_id": 11857,
+    "sender_id": "SnowPlug_Admin",
+    "timestamp": 1795239765.1876338,
+    "formatted_time": "2026-11-21 05:42:45 UTC",
+    "original_text": "Fresh uncut ❄️ fishscale and 💊 high purity oxy pills arrived in bulk! Pure uncut grade. Fast discreet courier drops in BLR/MUM. Wickr: snowplug99. Telegram: @snow_plug. BTC: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. 100% stealth delivery.",
+    "cleaned_text": "fresh pure_quality drug_cocaine pure_cocaine drug_prescription_pills high purity oxy pill arriv bulk pure_unadulterat grade fast discreet courier drop blr mum token_wickr_handle telegram token_telegram_contact btc token_crypto_btc 100 stealth delivery",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "snow_plug"
+      ],
+      "wickr_handles": [
+        "snowplug99"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄",
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "oxy",
+        "stealth",
+        "uncut",
+        "pills",
+        "wickr",
+        "btc",
+        "pure",
+        "telegram",
+        "plug"
+      ],
+      "entity_count": 6
+    },
+    "probabilities": {
+      "General / Benign": 0.0139,
+      "Legitimate Medical Review": 0.0115,
+      "Illicit Drug Trafficking": 0.9747
+    },
+    "has_media": true,
+    "id": "doc_1795239765187_f3582e",
+    "_id": "doc_1795239765187_f3582e"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 6301514,
+    "message_id": 63319,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795239762.2022266,
+    "formatted_time": "2026-11-21 05:42:42 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795239762202_1021e4",
+    "_id": "doc_1795239762202_1021e4"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@pure_chem_dispensary",
+    "chat_id": 6331317,
+    "message_id": 82388,
+    "sender_id": "ChemLab_Direct",
+    "timestamp": 1795239759.1849399,
+    "formatted_time": "2026-11-21 05:42:39 UTC",
+    "original_text": "Top grade crystal 💎 shards and MDMA pressies ready for dispatch. Overnight delivery available. Session ID: 05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5. Pay via ETH: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F.",
+    "cleaned_text": "top grade crystal drug_pure_crystals crystal_meth ecstasy_mdma counterfeit_pill ready dispatch rapid_courier_shipp available token_session_handle pay via eth token_crypto_eth",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 78.2,
+    "risk_level": "HIGH",
+    "risk_color": "#f97316",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [
+        "05a41b2c3d4e5f60718293a4b5c6d7e8f901a2b3c4d5e6f7a8b9c0d1e2f3a4b5"
+      ],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [
+        "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+      ],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💎"
+      ],
+      "suspicious_keywords": [
+        "mdma"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0156,
+      "Illicit Drug Trafficking": 0.9671
+    },
+    "has_media": true,
+    "id": "doc_1795239759185_4bdf8f",
+    "_id": "doc_1795239759185_4bdf8f"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "@stealth_pack_courier",
+    "chat_id": 4468986,
+    "message_id": 13435,
+    "sender_id": "PillDrop_Official",
+    "timestamp": 1795239753.2115378,
+    "formatted_time": "2026-11-21 05:42:33 UTC",
+    "original_text": "Xanax 2mg bars and codeine syrup in stock. No prescription required. Drop locations ready. Telegram: @rx_dispenser_direct. Wickr: scriptplug. BTC: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.",
+    "cleaned_text": "xanax 2mg xanax_alprazolam_bar codeine syrup stock illicit_no_rx requir drop location ready telegram token_telegram_contact token_wickr_handle btc token_crypto_btc",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 80.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "rx_dispenser_direct"
+      ],
+      "wickr_handles": [
+        "scriptplug"
+      ],
+      "session_handles": [],
+      "bitcoin_addresses": [
+        "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq"
+      ],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [],
+      "suspicious_keywords": [
+        "plug",
+        "wickr",
+        "xanax",
+        "btc",
+        "telegram",
+        "bars"
+      ],
+      "entity_count": 3
+    },
+    "probabilities": {
+      "General / Benign": 0.0173,
+      "Legitimate Medical Review": 0.0112,
+      "Illicit Drug Trafficking": 0.9715
+    },
+    "has_media": true,
+    "id": "doc_1795239755377_7779a4",
+    "_id": "doc_1795239755377_7779a4"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "Aayush kumar gupta",
+    "chat_id": 9276247498,
+    "message_id": 22254,
+    "sender_id": "Anant",
+    "timestamp": 1795239740.0,
+    "formatted_time": "2026-11-21 05:42:20 UTC",
+    "original_text": "hi dawg, just got some fresh 💊💊 also new stock of 🍀 is available with @coke_king_99 \nBTC accepted",
+    "cleaned_text": "hi dawg got fresh drug_prescription_pills drug_prescription_pills also new stock available token_telegram_contact btc accept",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "coke_king_99"
+      ],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "btc",
+        "coke"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0299,
+      "Legitimate Medical Review": 0.0492,
+      "Illicit Drug Trafficking": 0.921
+    },
+    "has_media": false,
+    "id": "doc_1795239740586_73ea00",
+    "_id": "doc_1795239740586_73ea00"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "Aayush kumar gupta",
+    "chat_id": 9276247498,
+    "message_id": 22253,
+    "sender_id": "Anant",
+    "timestamp": 1795238975.0,
+    "formatted_time": "2026-11-21 05:29:35 UTC",
+    "original_text": "hi dawg, just got some fresh 💊💊 also new stock of 🍀 is available with @coke_king_99 \nBTC accepted",
+    "cleaned_text": "hi dawg got fresh drug_prescription_pills drug_prescription_pills also new stock available token_telegram_contact btc accept",
+    "predicted_category": "Illicit Drug Trafficking",
+    "threat_score": 88.0,
+    "risk_level": "CRITICAL",
+    "risk_color": "#ef4444",
+    "entities": {
+      "telegram_handles": [
+        "coke_king_99"
+      ],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "💊"
+      ],
+      "suspicious_keywords": [
+        "btc",
+        "coke"
+      ],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.0299,
+      "Legitimate Medical Review": 0.0492,
+      "Illicit Drug Trafficking": 0.921
+    },
+    "has_media": false,
+    "id": "doc_1795238975283_ef70f8",
+    "_id": "doc_1795238975283_ef70f8"
+  },
+  {
+    "platform": "Telegram",
+    "channel": "Aayush kumar gupta",
+    "chat_id": 9276247498,
+    "message_id": 22252,
+    "sender_id": "Anant",
+    "timestamp": 1795238896.0,
+    "formatted_time": "2026-11-21 05:28:16 UTC",
+    "original_text": "what up ,want some ❄️",
+    "cleaned_text": "want drug_cocaine",
+    "predicted_category": "General / Benign",
+    "threat_score": 12.7,
+    "risk_level": "LOW",
+    "risk_color": "#22c55e",
+    "entities": {
+      "telegram_handles": [],
+      "wickr_handles": [],
+      "session_handles": [],
+      "bitcoin_addresses": [],
+      "ethereum_addresses": [],
+      "monero_addresses": [],
+      "darknet_links": [],
+      "phone_numbers": [],
+      "detected_emojis": [
+        "❄️",
+        "❄"
+      ],
+      "suspicious_keywords": [],
+      "entity_count": 2
+    },
+    "probabilities": {
+      "General / Benign": 0.757,
+      "Legitimate Medical Review": 0.1904,
+      "Illicit Drug Trafficking": 0.0526
+    },
+    "has_media": false,
+    "id": "doc_1795238896679_8ce970",
+    "_id": "doc_1795238896679_8ce970"
+  }
+]
